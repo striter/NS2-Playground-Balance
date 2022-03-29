@@ -89,11 +89,11 @@ kGrenadeLauncherDropCost = 12
 kGrenadeLauncherDropCooldown = 0
 
 kGrenadeLauncherGrenadeDamageType = kDamageType.GrenadeLauncher
-kGrenadeLauncherGrenadeDamage = 100
+kGrenadeLauncherGrenadeDamage = 85
 kGrenadeLauncherGrenadeDamageRadius = 4.8
 kGrenadeLauncherDetectionShotRadius = 3
 
-kGrenadeLauncherImpactGrenadeDamage = 80
+kGrenadeLauncherImpactGrenadeDamage = 70
 kGrenadeLauncherAllyBlastReduction = 0.3
 
 kGrenadeLauncherClipSize = 4
@@ -234,7 +234,7 @@ kProwlerCost = 16 --14
 kProwlerBaseCarapaceUpgradeAmount = 10.5
 kProwlerCarapaceArmorPerBiomass = 1.5
 
-kProwlerEggCost = 16
+kProwlerEggCost = 13
 kProwlerGestateTime = 6
 kProwlerUpgradeCost = 1
 kProwlerBabblerShieldPercent = 0.15
